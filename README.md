@@ -18,10 +18,10 @@ A 9-key Arduino macropad with a rotary encoder, 3 switchable layouts (27 shortcu
 | Component | Qty | Notes |
 |---|---|---|
 | Arduino Pro Micro (ATmega32U4) | 1 | Needs native USB HID support |
-| Mechanical key switches | 9 | [FILL IN: switch type] |
-| Rotary encoder with push button | 1 | [FILL IN: e.g. EC11] |
+| Mechanical key switches | 9 | Kailh Box Jades |
+| Rotary encoder with push button | 1 | KY-040 |
 | Keycaps | 9 | |
-| Enclosure | 1 | [FILL IN: 3D-printed / other] |
+| Enclosure | 1 | [Macro Keypad with Volume Knob by OfirT (Thingiverse)](https://www.thingiverse.com/thing:4628023) |
 
 ## Wiring
 
@@ -82,4 +82,4 @@ To change what a key does, edit the `layout1()`, `layout2()` or `layout3()` func
 
 ## License
 
-[FILL IN: e.g. MIT]
+MIT
