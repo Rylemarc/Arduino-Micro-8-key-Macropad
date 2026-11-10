@@ -3,7 +3,6 @@
 A 9-key Arduino macropad with a rotary encoder, 3 switchable layouts (27 shortcuts) and media controls. It shows up as a standard USB keyboard and media device, so no drivers are needed.
 
 ![Macropad photo](images/macropad.jpg)
-![Wiring](images/wiring.jpg)
 
 ## Features
 
